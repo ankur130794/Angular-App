@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
@@ -26,3 +27,6 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Angular-App
+>>>>>>> ab4422edaa05d8f4efd1cb4c5deb305402ad5b76
